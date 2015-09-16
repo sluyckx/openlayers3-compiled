@@ -6,11 +6,5 @@
   "./build/ol.css"
   ],
   "ignore": [
-    "./build/ol.ext/*.*",
-	"./build/timestamps/*.*",
-    "info.json",
-    "npm-install-timestamp",
-    "ol.js.map",
-    "ol-debug.js"
   ]
 }
