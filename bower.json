@@ -6,5 +6,6 @@
   "./build/ol.css"
   ],
   "ignore": [
+     "**/.*"
   ]
 }
