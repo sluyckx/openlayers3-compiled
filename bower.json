@@ -4,8 +4,5 @@
   "main": [
   "./build/ol.js",  
   "./build/ol.css"
-  ],
-  "ignore": [
-     "**/.*"
   ]
 }
