@@ -1,0 +1,16 @@
+{
+  "name": "openlayers3",
+  "version": "3.4.0",
+  "main": [
+  "./build/ol.js",  
+  "./build/ol.css"
+  ],
+  "ignore": [
+    "./build/ol.ext/*.*",
+	"./build/timestamps/*.*",
+    "info.json",
+    "npm-install-timestamp",
+    "ol.js.map",
+    "ol-debug.js"
+  ]
+}
