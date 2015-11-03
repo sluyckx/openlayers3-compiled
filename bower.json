@@ -1,6 +1,6 @@
 {
   "name": "openlayers3",
-  "version": "3.9.0",
+  "version": "3.10.1",
   "main": [
   "./build/ol.js",  
   "./build/ol.css"
@@ -9,3 +9,4 @@
   ".git/*"
   ]
 }
+
